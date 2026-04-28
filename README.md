@@ -18,3 +18,34 @@ No terminal:
 
 ```bash
 bash run.sh
+
+## 📂 Estrutura do projeto
+
+- test_scraping.py → scraping e tratamento de dados  
+- run.sh → automação  
+- dados/ → ficheiros gerados
+
+## 🔧 Tecnologias utilizadas
+Python
+Playwright
+Bash
+JSON
+
+## ✔ Checklist de Funcionalidades
+
+- [x] Scraping com Playwright  
+- [x] Filtragem de dados  
+- [x] Exportação para JSON  
+- [x] Automação com Bash  
+- [x] Organização por data  
+- [x] Contagem de reclamações  
+- [x] Histórico de execuções
+
+##  <img width="42" height="42" alt="image" src="https://github.com/user-attachments/assets/9716a248-3e39-4f88-a43b-6aaad250da97" />
+ Conclusão: 
+O sistema desenvolvido demonstrou ser capaz de recolher e analisar informações
+relevantes de forma automatizada,permitindo identificar tendências e principais temas
+nas reclamações analisadas.
+Este projeto contribuiu para a consolidação de conhecimentos em automação, web scraping
+e utilização de APIs, evidenciando a utilidade prática destas ferramentas na análise de dados reais.
+
