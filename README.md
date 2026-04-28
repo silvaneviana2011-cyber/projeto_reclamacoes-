@@ -38,9 +38,12 @@ JSON
  Histórico de execuções
 
 Conclusão: 
-O sistema desenvolvido demonstrou ser capaz de recolher e analisar informações relevantes de forma automatizada,
-permitindo identificar tendências e principais temas nas reclamações contidas (na página) analisadas.
-Este projeto contribuiu para a consolidação de conhecimentos em automação, web scraping e utilização de APIs,
+O sistema desenvolvido demonstrou ser capaz de recolher e analisar
+informações relevantes de forma automatizada,
+permitindo identificar tendências e principais temas nas reclamações
+contidas (na página) analisadas.
+Este projeto contribuiu para a consolidação de conhecimentos em automação,
+web scraping e utilização de APIs,
 evidenciando a utilidade prática destas ferramentas na análise de dados reais.
 
 
