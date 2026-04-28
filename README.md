@@ -41,7 +41,7 @@ JSON
 - [x] Contagem de reclamações  
 - [x] Histórico de execuções
 
-##  <img width="42" height="42" alt="image" src="https://github.com/user-attachments/assets/9716a248-3e39-4f88-a43b-6aaad250da97" />
+
  Conclusão: 
 O sistema desenvolvido demonstrou ser capaz de recolher e analisar informações
 relevantes de forma automatizada,permitindo identificar tendências e principais temas
