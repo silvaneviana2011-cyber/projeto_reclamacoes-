@@ -117,7 +117,9 @@ organizando os dados de forma estruturada em formato JSON.
 A integração de Python com Playwright e Bash demonstrou a eficácia da automatização na recolha,
 tratamento e organização da informação, tornando o processo mais eficiente e reutilizável.
 Esse modelo de projecto envolveu aprendizagens ativas, através da aplicação prática de conceitos de
-programação, automação e web scraping.  
+programação, automação e web scraping, no âmbito da UF10806 - Linguagens de scripting e 
+linha de comandos, lecionada pelo Prof.Dr. Joaquim Patriarca. Teve como objetivo capacitar o formando 
+para apresentar soluções a problemas reais.
 A resolução de problemas reais permitiu consolidar conhecimentos e desenvolver competências técnicas
 de forma autónoma. O processo contribuiu para uma melhor compreensão das ferramentas utilizadas e da
 sua aplicação em contextos reais.
