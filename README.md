@@ -57,6 +57,23 @@ bash run.sh
 
 ´´´
 
+## 🏛️ Potencial de Impacto Institucional
+
+Este projeto apresenta potencial de aplicação em contextos institucionais, nomeadamente em autarquias 
+e organismos públicos, ao permitir uma análise estruturada das reclamações submetidas por cidadãos.
+
+Através da organização e monitorização de dados, a solução desenvolvida pode contribuir para:
+Melhoria da eficiência dos serviços públicos, através da identificação de padrões recorrentes de reclamações
+Apoio à tomada de decisão, com base em dados concretos e atualizados.
+
+Aumento da transparência institucional, facilitando o acompanhamento e resolução de ocorrências
+Identificação de áreas críticas, permitindo a priorização de intervenções.
+Promoção da satisfação do cidadão, através de respostas mais rápidas e informadas.
+
+Este tipo de abordagem orientada por dados pode ser aplicado em contextos municipais e 
+em organizações públicas, contribuindo para a modernização administrativa e melhoria da governação.
+
+
 ## 📊 Exemplo de Output
 
 O sistema gera ficheiros JSON com as reclamações recolhidas:
